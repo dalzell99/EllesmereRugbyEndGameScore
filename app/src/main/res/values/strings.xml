@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">End Game Score</string>
+    <string name="home_team_textview">Home Team</string>
+    <string name="away_team_textview">Away Team</string>
+    <string name="create_game_button">Create Game</string>
+    <string name="select_game_button">Select Game</string>
+    <string name="send_button">Send</string>
+    <string name="divison_textview">Division</string>
+    <string name="minutes_played_textview">Minutes Played</string>
+    <string name="time_textview">Start Time</string>
+    <string name="location_textview">Location</string>
+    <string name="date_textview">Date</string>
+    <string name="change_textview">Change</string>
+    <string name="set_textview">Set</string>
+    <string name="title_activity_score_game_end">ScoreGameFragmentActivity</string>
+
+</resources>
